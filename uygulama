@@ -11,5 +11,4 @@ final int ,
 ortalama as ((vize +final)/2),
 PRIMARY KEY(ogrenci_No),
 INSERT sinif VALUES (1,4571,'Cem UZAN','Erkek','Matematik',60,70)
-
 }
